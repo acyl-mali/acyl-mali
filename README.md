@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/image2.jpeg" width="200" style="border-radius:50%;" alt="Aseel Mohammed Ali"/>
+<img src="[images/image2.jpeg](https://github.com/acyl-mali/my-portfolio.git)" width="200" style="border-radius:50%;" alt="Aseel Mohammed Ali"/>
 
 # Hi 👋, I'm Aseel Mohammed Ali
 
