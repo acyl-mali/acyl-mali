@@ -36,4 +36,10 @@
 
 class Skills extends Me { 
   const myProgramming = {  
-    "WebDevelopment
+    "WebDevelopment: { "HTML", "CSS", "JavaScript" },
+    "ProgrammingLanguages" : { "C++", "Matlab", "Arduino" },
+    "DesignTools" : { "Photoshop", "Illustrator" },
+    "OfficeTools" : { "Word", "Excel", "PowerPoint" },
+    "ProjectManagement" : { "P6 Professional", "Square Program" }
+  };
+}
