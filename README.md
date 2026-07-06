@@ -1,69 +1,39 @@
-<div align="center">
+<div align="center" width="50">
 
-<img src="image2.jpeg" width="200" style="border-radius:50%;" alt="Aseel Mohammed Ali"/>
+<img src="image2.jpeg" alt="Aseel Mohammed Ali" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-# Hi 👋, I'm Aseel Mohammed Ali
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
-### 💻 Computer Engineering Graduate | Beginner in Web Development
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
+</details>
+
+![Totals Hits](https://komarev.com/ghpvc/?username=acyl-mali&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Facyl-mali&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/Aseel-grey?style=flat&logo=telegram)](https://t.me/yourusername) <br>
 </div>
 
----
+<hr></hr>
 
-## 👩‍💻 About Me
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Matlab](https://img.shields.io/badge/Matlab-blue?style=flat&logo=mathworks&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white)
+![Word](https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=Microsoftexcel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
 
-- 🎓 Bachelor's Degree in **Computer Engineering** – جامعة الكفيل (2021/2022)  
-- 🌱 مبتدئة في **Web Development** (HTML, CSS, JavaScript – دورة أونلاين)  
-- 📚 خبرة في برامج التصميم (Adobe Illustrator, Photoshop)  
-- 💻 خبرة في برامج هندسية (C++, Matlab, Arduino)  
-- 🚀 مهتمة بتطوير نفسي في تصميم المواقع الإلكترونية  
+```dart
+// Programming skills organized
 
----
-
-## 💼 Experience
-
-- 🎓 **جامعة الكفيل** – إدارية (2025-8 إلى 2025-11)  
-  - متابعة الطلبة، تنظيم الجداول الدراسية، إعداد تقارير يومية للعمل الإداري.  
-
-- 🏢 **مجمع سكني** – IT Support (2024 – الآن)  
- - إدارة الأنظمة، إدخال البيانات، دعم المستخدمين وحل المشكلات التقنية.  
-
-- 🖌️ **شركة قوة المعلومات** (2023-5 إلى 2023-8)  
-  - تصميم منشورات دعائية باستخدام Adobe Illustrator، إعداد تقارير شهرية.  
-
-  
-
-## 🚀 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
-
----
-
-## 📂 Projects
-
-- 🌐 Personal Portfolio Website (In Progress)  
-- 🧮 Calculator App  
-- 📝 To-Do List  
-- 🎨 Landing Page  
-- 🌦 Weather App (Coming Soon)  
-
----
-
-## 🤝 Connect With Me
-
-- 📧 Email: acylmail@gmail.com  
-- 📞 Phone: [07715883422](tel:07715883422)  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/aseel-m-ali](https://www.linkedin.com/in/aseel-m-ali)  
-- 📍 Location: النجف الأشرف – حي السلام  
-
----
-
-⭐ Thanks for visiting my profile!
-
+class Skills extends Me { 
+  const myProgramming = {  
+    "WebDevelopment
